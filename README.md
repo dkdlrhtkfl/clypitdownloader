@@ -9,3 +9,4 @@ How to use it
 4. Run and wait for downloading every track
 
 May need to install some package such as selenium, wget..
+Try changing some time.sleep paramter if your speed of internet is too slow that code doesn't wait for the loading.
